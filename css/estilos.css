@@ -1,0 +1,92 @@
+.musica-body {
+  background-color: black;
+}
+
+.inverse {
+  background-color: white;
+  min-height: 15%;
+  border: none;
+}
+
+.navegation{
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.information-row{
+  margin-top: 2%;
+  padding-top: 2%;
+  background-color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.information-row2{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.information-textarea{
+  background-color: white;
+  padding-left: 15px;
+}
+
+.jumbotron {
+  background: white;
+  padding-left: 15px;
+}
+
+.logo-img {
+  width: 200px;
+}
+
+.redes-sociales {
+  margin-top: 30px;
+  height: 10%;
+  text-align: right;
+}
+
+.img-social {
+  width: 40px;
+  height: 40px;
+}
+
+.img-icono {
+  width: 40px;
+}
+
+.img-art {
+  width: 100%;
+}
+
+.input-group{
+    margin-bottom: 10px;
+}
+
+@media (max-width: 770px) {
+  h2 {
+    font-size: 22px;
+  }
+
+  .titulo-text {
+    font-size: 15px;
+  }
+
+  .right-column {
+    display: none;
+  }
+
+  .jumbotron {
+    min-height: 400px;
+  }
+
+.right-icon{
+    display: flex;
+    justify-content: center;
+}
+
+}
